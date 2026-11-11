@@ -1,5 +1,4 @@
-# Cyclistic Bike-Share Case Study
-Google Data Analytics Capstone
+# Cyclistic Bikes Share Case Study
 
 ## Business question
 How do annual members and casual riders use Cyclistic bikes differently?
@@ -16,21 +15,13 @@ Google Cloud Storage, BigQuery (SQL), Python
 3. Analyzed patterns by rider type
 
 ## Key findings
-- (fill in once you have them)
+- 
 
 ## Recommendations
-- (fill in)
 
-- Yes, a few things make a big difference. The Google capstone follows six phases (Ask, Prepare, Process, Analyze, Share, Act), and reviewers look for each one.
-Write-up pieces (these go in the README):
-* Business task statement. One or two sentences: “Find out how members and casual riders use bikes differently, to help marketing convert casual riders into members.”
-* Data credibility check. Note where the data comes from (Divvy/Motivate, public license), the time range, and its limits. For example, there’s no rider info, so you can’t tell whether one casual rider took 50 rides or 50 people took one each.
-* Cleaning log. List what you removed and how many rows each step dropped. Before and after row counts make this concrete.
-* Limitations. Mention things like 2020 being a COVID year, missing station names, and the absence of pricing data.
-The part people skip, which matters most:
-* Three recommendations tied to your findings. For example: “Casual riders peak on summer weekends near the lakefront, so run a weekend-to-annual membership promo there in May.” Each recommendation should point back to a specific query result.
-* Next steps. Say what data you’d want next, such as pricing, survey data, or rider IDs.
-Getting it seen:
-* Pin the repo on your GitHub profile.
-* Add it to LinkedIn under Featured, and write a short post about it with one chart.
-* Put the link on your resume under a “Projects” section.
+1. Offer a weekend or summer membership. Casual riders lean toward weekends and warm months, so give them a lower-commitment plan that fits how they already ride, with an upgrade path to annual.
+Market at the top casual stations. Put signage, QR codes, and in-app offers at the lakefront and tourist stations from your Q6 results.
+Time campaigns for spring and early summer, and pitch the savings on long rides. Launch before casual riding peaks, and show casual riders how much they’d save on long rides with a membership. Their longer rides are exactly where pay-per-ride gets expensive.
+
+2. One limitation to include: the data has no rider IDs, so you can’t tell how many people are casual riders or how often each one rides. A survey or rider-level data would make the conversion pitch much stronger. Mentioning that limitation shows good judgment.
+
