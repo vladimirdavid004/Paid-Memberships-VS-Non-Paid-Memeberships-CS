@@ -4,7 +4,7 @@
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Data
-Divvy public trip data, April 2020 to March 2021 (link here)
+Divvy public trip data, April 2020 to March 2021
 
 ## Tools
 Google Cloud Storage, BigQuery (SQL), Python
