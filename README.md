@@ -26,9 +26,11 @@ Google Cloud Storage, BigQuery (SQL), Python
 
 ## Recommendations
 
-1. Offer a weekend or summer membership. Casual riders lean toward weekends and warm months, so give them a lower-commitment plan that fits how they already ride, with an upgrade path to annual.
-Market at the top casual stations. Put signage, QR codes, and in-app offers at the lakefront and tourist stations from your Q6 results.
-Time campaigns for spring and early summer, and pitch the savings on long rides. Launch before casual riding peaks, and show casual riders how much they’d save on long rides with a membership. Their longer rides are exactly where pay-per-ride gets expensive.
+1. Offer a weekend or summer membership.
+Casual riders already ride on weekends and in summer: 42% of their rides fall on Saturday and Sunday, and 66% fall in June–September. A lower-commitment plan that matches that pattern is an easier first step than a full annual membership. Build in an upgrade path to annual.
 
-2. One limitation to include: the data has no rider IDs, so you can’t tell how many people are casual riders or how often each one rides. A survey or rider-level data would make the conversion pitch much stronger. Mentioning that limitation shows good judgment.
+2. Market where casual riders already start.
+Put signage, QR codes and in-app offers at the top 10 casual stations, led by Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St and Millennium Park. Those 10 stations alone account for 11% of all casual rides. Target weekend afternoons, since casual riding builds through the day and peaks around 5 PM.
 
+3. Launch in spring and sell the savings on long rides.
+Start the campaign in March–April, before casual riding takes off (it grows about 8× from March to August). Pitch the cost: the average casual ride is 35.9 minutes, and casual riders log roughly 62% of all minutes ridden, so they're the riders paying the most per trip without a membership.
